@@ -117,4 +117,3 @@ For production, configure Inngest cloud and update apiBaseUrl accordingly.
 
 © 2026 Leonard Phokane | All rights reserved.
 
-![Footer](images/footer.png)
